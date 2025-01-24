@@ -1,0 +1,2 @@
+# NTPScanner
+NTP Amplification Scanner
